@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Akshay & I'm a recent MS grad in Business Analytics from Purdue University! 👨🏼‍🎓
 
 <!--
 **akshay-madar/akshay-madar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
