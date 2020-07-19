@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Akshay & I'm a recent MS grad in Business Analytics from Purdue University! 👨🏼‍🎓
+## Hi there 👋, my name is Akshay & I'm a recent MS grad in Business Analytics from Purdue University! 👨🏼‍🎓
 I am on a personal mission to **empower the under-privileged with technology** using analytics, data science, ML, & business-product innovation.
 
-## 🚀✈️ My Dream ✈️🚀
-Help manifest ** *conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy* & *Internet for All*. ** 
+### 🚀✈️ My Dream ✈️🚀
+Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy & Internet for All.*** 
 
 Here are some ideas to get you started:
 
