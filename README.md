@@ -2,7 +2,7 @@
 I am on a personal mission to **empower the under-privileged with technology** using analytics, data science, & ML driven business-product innovation.
 
 ### 🚀✈️ My Dream ✈️🚀
-Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy & Internet for All.*** 
+Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy*** & ***Internet for All.*** 
 
 ### 🎯 Activities 🙇🏻
 * **Analytics professional with 3 years** in shipping data-driven solutions for cross-functional and global business teams around BI, prediction and optimization.
@@ -15,19 +15,16 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 * **Selected Competitor:** INFORMS Business Analytics Conference 2020, Denver
 * **Leadership:** Executive Board Member, Krannert Graduate Student Organizations - GWIB, KABC
 
+### 🔭 I’m currently working on 🌱
+* JobHunt: Looking for my next exciting opportunity!
+* Model deployment with Flask
+* Product management skills
+
 ### 💬 Want to connect? 📫
 * LinkedIn: https://www.linkedin.com/in/akshaymadar/
 
 ### ✨ Want to hire for a role or project? ✨
 * Resume (pdf): https://bit.ly/3jm0RsD
 
-### 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ✨
+### ⚡ Fun fact 😀
+I love travel, F1, food. My top 3 tech channels: MKBHD, Unbox Therapy, TechCrunch
