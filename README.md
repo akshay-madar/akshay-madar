@@ -16,6 +16,7 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 * **Leadership:** Executive Board Member, Krannert Graduate Student Organizations - GWIB, KABC
 
 ### 🔭 I’m currently working on 🌱
+* JobHunt: Looking for my next exciting full time opportunity
 * Model deployment with Flask
 * Product management skills
 * Becoming a full stack data scientist...
