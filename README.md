@@ -7,7 +7,7 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 ### 🎯 Activities 🙇🏻
 * **Data pro with 3 years** in shipping data-driven solutions for cross-functional & global business teams in ecommerce, finance, product & growth analytics.
 * **Partnered with industry** in multiple projects, leveraging NLP & ML to generate actionable insights for stakeholders.
-* **Author** for *"Towards Data Science"* & *"Python in Plain English"*, 2 leading Medium publications to share ideas in data domain (https://bit.ly/2CLX1Iz)
+* **Author** for *"Towards Data Science"* & *"Python in Plain English"* (https://bit.ly/2CLX1Iz), 2 leading Medium publications to share ideas in data domain 
 
 ### 🏆 Honors ✏️
 * **Academic:** Dean's List 2019, Honors List 2020 @Purdue
