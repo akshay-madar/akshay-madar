@@ -5,9 +5,9 @@ I am on a personal mission to **empower the under-privileged with technology** u
 Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy*** & ***Internet for All.*** 
 
 ### 🎯 Activities 🙇🏻
-* **Data pro with 3 years** in shipping data-driven solutions for cross-functional and global business teams in ecommerce, finance, product & growth analytics.
-* **Partnered with industry** for multiple projects leveraging NLP & ML for actionable insights at strategic & tactical levels.
-* **Author** for *"Towards Data Science"* & *"Python in Plain English"*, 2 leading Medium publications to share ideas and concepts in data domain (https://bit.ly/2CLX1Iz)
+* **Data pro with 3 years** in shipping data-driven solutions for cross-functional & global business teams in ecommerce, finance, product & growth analytics.
+* **Partnered with industry** in multiple projects, leveraging NLP & ML to generate actionable insights for stakeholders.
+* **Author** for *"Towards Data Science"* & *"Python in Plain English"*, 2 leading Medium publications to share ideas & concepts in data domain (https://bit.ly/2CLX1Iz)
 
 ### 🏆 Honors ✏️
 * **Academic:** Dean's List 2019, Honors List 2020 @Purdue
@@ -16,9 +16,9 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 * **Leadership:** Executive Board Member, Krannert Graduate Student Organizations - GWIB, KABC
 
 ### 🔭 I’m currently working on 🌱
-* JobHunt: Looking for my next exciting opportunity!
 * Model deployment with Flask
 * Product management skills
+* Becoming a full stack data scientist...
 
 ### 💬 Want to connect? 📫
 * LinkedIn: https://www.linkedin.com/in/akshaymadar/
