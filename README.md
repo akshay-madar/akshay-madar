@@ -1,11 +1,11 @@
 ## Hi there 👋, my name is Akshay & I'm a recent MS Business Analytics grad from Purdue University! 👨🏼‍🎓
-I am on a personal mission to **empower the under-privileged with technology** using analytics, data science, & ML driven business-product innovation.
+I am on a personal mission to **empower the under-privileged with technology** using BI, data science, & ML driven business-product innovation.
 
 ### 🚀✈️ My Dream ✈️🚀
 Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy*** & ***Internet for All.*** 
 
 ### 🎯 Activities 🙇🏻
-* **Analytics professional with 3 years** in shipping data-driven solutions for cross-functional and global business teams around BI, prediction and optimization.
+* **Data pro with 3 years** in shipping data-driven solutions for cross-functional and global business teams in ecommerce, finance, product & growth analytics.
 * **Partnered with industry** for multiple projects leveraging NLP & ML for actionable insights at strategic & tactical levels.
 * **Author** for *"Towards Data Science"* & *"Python in Plain English"*, 2 leading Medium publications to share ideas and concepts in data domain (https://bit.ly/2CLX1Iz)
 
