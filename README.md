@@ -11,7 +11,7 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 
 ### 🏆 Honors ✏️
 * **Academic:** Dean's List 2019, Honors List 2020 @Purdue
-* **Winner:** Google-ML Data Hackathon, Purdue Chapter (https://bit.ly/2Bcja2i)
+* **Winner:** Google Data Hackathon, Purdue Chapter (https://bit.ly/2Bcja2i)
 * **Selected Competitor:** INFORMS Business Analytics Conference 2020, Denver (industry poster)
 * **Leadership:** Executive Board Member, Krannert Graduate Student Organizations - GWIB, KABC
 
