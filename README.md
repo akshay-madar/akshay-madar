@@ -6,7 +6,7 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 
 ### 🎯 Activities 🙇🏻
 * **Data pro with 3 years** in shipping data-driven solutions for global business teams in ecommerce, finance, product & growth analytics.
-* **Partnered with industry** in multiple projects, leveraging NLP & ML to generate actionable insights for stakeholders.
+* **Partnered with industry** in multiple projects, leveraging NLP & ML to generate actionable insights and product ideas for stakeholders
 * **Author** for *"Towards Data Science"* & *"Python in Plain English"*, 2 leading data related Medium publications (https://bit.ly/2CLX1Iz)
 
 ### 🏆 Honors ✏️
@@ -17,9 +17,8 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 
 ### 🔭 I’m currently working on 🌱
 * JobHunt: Looking for my next exciting full time opportunity
+* Product management/Leadership skills
 * Model deployment with Flask
-* Product management skills
-* Becoming a full stack data scientist...
 
 ### 💬 Want to connect? 📫
 * LinkedIn: https://www.linkedin.com/in/akshaymadar/
