@@ -27,4 +27,4 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 * Resume (pdf): https://bit.ly/3jm0RsD
 
 ### ⚡ Fun fact 😀
-I love travel, F1, food. My top 3 tech channels: MKBHD, Unbox Therapy, TechCrunch
+I love travel, F1, music. My top 3 tech channels: MKBHD, Unbox Therapy, TechCrunch
