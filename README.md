@@ -2,7 +2,7 @@
 I am on a personal mission to **empower the under-privileged with technology** by building world-class products and using BI, data science, & ML as tools to drive business innovation. 
 
 ### 🚀✈️ My Dream ✈️🚀
-Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy*** & ***Internet for All.*** 
+Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy*** & ***Cloud for All.*** 
 
 ### 🎯 Activities 🙇🏻
 * **Data pro with 3 years** in shipping data-driven solutions for global business teams in ecommerce, finance, product & growth analytics.
