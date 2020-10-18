@@ -17,6 +17,7 @@ Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, su
 * **Leadership:** Executive Board Member, Krannert Graduate Student Organizations - GWIB, KABC @Purdue
 
 ### 🔭 I’m currently working on 🌱
+* Using AI/ML to create cutting-edge MVPs and POCs
 * Product management/Leadership skills
 
 ### 💬 Want to connect? 📫
