@@ -5,7 +5,7 @@ I am on a personal mission to **empower the under-privileged with technology** b
 Help manifest ***conversational ecommerce, 5G IoT revolution, edge computing, sustainable energy*** & ***Cloud for All.*** 
 
 ### 🎯 Activities 🙇🏻
-* **Building new products and capabilities at LeaseQuery** to help it transition from a single product company to a multi-product platform
+* **Building new products and capabilities at LeaseQuery** to help it transition from single product company to multi-product platform
 * **Data pro with 3 years** in shipping data-driven solutions for global business teams in ecommerce, finance, product & growth analytics.
 * **Partnered with industry** in multiple projects, leveraging NLP & ML to generate actionable insights and product ideas for stakeholders
 * **Author** for *"Towards Data Science"* & *"Python in Plain English"*, 2 leading data related Medium publications (https://bit.ly/2CLX1Iz)
