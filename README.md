@@ -1,4 +1,4 @@
-## Hi there, my name is Akshay & I'm a recent MS Business Analytics grad from Purdue! 👨🏼‍🎓
+## Hi there, my name is Akshay & I'm a Product Manager! 
 I am on a personal mission to **empower the under-privileged with technology** by building world-class products and using BI, data science, & ML as tools to drive business innovation. 
 
 ### 🚀✈️ My Dream ✈️🚀
